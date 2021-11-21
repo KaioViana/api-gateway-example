@@ -1,0 +1,3 @@
+services:
+  - name: queue
+    url: http://localhost:9000/queue
